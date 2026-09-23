@@ -71,7 +71,7 @@ Evidência: A mesma dúvida sobre local e horário foi percebida mais de uma vez
 Dúvida que ainda precisa ser investigada: As informações da programação estavam disponíveis de alguma forma clara e atualizada para os participantes? Se estavam, por que ainda houve necessidade de perguntar?
 6. Síntese
 A observação mostrou situações relacionadas a dúvidas, espera e necessidade de confirmação de informações. Antes de pensar em uma solução, é necessário reunir evidências, identificar quem é afetado, entender as consequências e descobrir quais informações ainda faltam. Assim, o problema pode ser definido de forma provisória e revisado conforme novas observações.
-
+ 
 Atividade 3
 1. Eixo escolhido:
 Memórias Quilombolas.
