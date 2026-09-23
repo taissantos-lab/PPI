@@ -29,6 +29,7 @@ Atividade 2
 1. Registros das situações observadas
 Situação 1 – Dúvidas sobre horários e locais
 Situação observada: Durante a Semana da Informática, algumas pessoas perguntaram onde aconteceria determinada atividade e em qual horário ela seria realizada.
+
 Evidência: A mesma dúvida sobre local e horário apareceu mais de uma vez durante o evento.
 Pessoas ou grupos afetados: Participantes/visitantes e pessoas responsáveis pela organização das atividades.
 Consequência ou sintoma: Interrupções e necessidade de orientar as pessoas individualmente, podendo causar atrasos ou deslocamentos desnecessários.
