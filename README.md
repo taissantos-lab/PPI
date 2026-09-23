@@ -2,7 +2,7 @@ Atividade 1
 1. O que você entende por projeto de software?
 É a criação e organização de um sistema para resolver algum problema ou facilitar
 alguma atividade.
-2. Você já trabalhou com classes e objetos? Em que nível?
+2. Você já trabalhou com classes e objetos?  Em que nível?
 Já tive contato, mas ainda tenho bastante dificuldade e estou aprendendo o básico.
 3. Você já criou ou consultou um banco de dados? Em que nível?
 Já tive pouco contato, mas ainda não tenho muito conhecimento sobre banco de
@@ -26,6 +26,7 @@ Preciso de mais ajuda principalmente em programação, banco de dados e criaçã
 de diagramas, porque ainda tenho dificuldade nesses conteúdos.
 
 Atividade 2
+
 1. Registros das situações observadas
 Situação 1 – Dúvidas sobre horários e locais
 Situação observada: Durante a Semana da Informática, algumas pessoas perguntaram onde aconteceria determinada atividade e em qual horário ela seria realizada.
