@@ -36,6 +36,7 @@ Consequência ou sintoma: Interrupções e necessidade de orientar as pessoas in
 Informações ou dados envolvidos: Nome da atividade, horário, local e informações sobre a programação.
 Disciplinas relacionadas: Programação Orientada a Objetos, Banco de Dados e Estruturas de Dados.
 O que ainda precisamos descobrir: Precisamos descobrir se as informações da programação já estavam disponíveis para todos, onde estavam disponíveis e se estavam atualizadas.
+
 Situação 2 – Espera para receber orientações
 Situação observada: Em alguns momentos, participantes precisaram esperar para receber informações ou orientações sobre as atividades.
 Evidência: Foi possível perceber pessoas aguardando enquanto outra pessoa da organização terminava de atender ou orientar alguém.
@@ -44,6 +45,7 @@ Consequência ou sintoma: Formação de espera e interrupção momentânea do fl
 Informações ou dados envolvidos: Informações sobre a atividade, orientações necessárias e identificação de quem poderia ajudar.
 Disciplinas relacionadas: Programação Orientada a Objetos e Estruturas de Dados.
 O que ainda precisamos descobrir: Precisamos descobrir em quais momentos a espera aconteceu com maior frequência e qual orientação as pessoas procuravam.
+
 Situação 3 – Informações diferentes sendo repassadas
 Situação observada: Algumas orientações sobre as atividades precisaram ser confirmadas com outras pessoas antes de serem repassadas aos participantes.
 Evidência: Houve necessidade de consultar ou confirmar informações antes de dar uma resposta.
@@ -53,22 +55,27 @@ Informações ou dados envolvidos: Horários, locais, responsáveis e detalhes d
 Disciplinas relacionadas: Banco de Dados, Estruturas de Dados e Programação Orientada a Objetos.
 O que ainda precisamos descobrir: Precisamos verificar se havia uma fonte única e atualizada para essas informações e se todas as pessoas da organização tinham acesso às mesmas informações.
 2. Problema provisório
+
 Problema provisório: As informações sobre atividades, horários, locais e orientações da Semana da Informática parecem não estar em um único lugar facilmente acessível por participantes e pela equipe.
 Importante: Esse problema é provisório porque ainda precisamos verificar as situações observadas e entender melhor onde as informações estavam disponíveis e como eram utilizadas. Neste momento, não é proposta nenhuma tecnologia ou solução.
+
 3. O que é fato e o que ainda é hipótese?
 Fato/observação: Pessoas fizeram perguntas sobre horários, locais ou orientações das atividades.
 Evidência: Algumas dúvidas e necessidades de orientação apareceram mais de uma vez durante o evento.
 Hipótese: A dificuldade pode estar relacionada à forma como as informações estavam organizadas ou disponibilizadas.
 Ainda não confirmado: Não sabemos se as informações já estavam disponíveis em algum local, se estavam atualizadas ou se eram facilmente encontradas.
+
 4. Situação escolhida para compartilhar com a turma
 Situação observada: Participantes perguntaram onde aconteceria determinada atividade e em qual horário.
 Evidência: A mesma dúvida foi ouvida mais de uma vez durante a Semana da Informática.
 Pessoas afetadas: Participantes/visitantes e organizadores.
 Dúvida principal a investigar: As informações sobre horários e locais já estavam disponíveis? Onde estavam e em que formato?
+
 5. Bilhete de saída – registro individual
 Situação que considero mais relevante: Participantes precisarem perguntar repetidamente onde e quando aconteciam algumas atividades da Semana da Informática.
 Evidência: A mesma dúvida sobre local e horário foi percebida mais de uma vez durante o evento.
 Dúvida que ainda precisa ser investigada: As informações da programação estavam disponíveis de alguma forma clara e atualizada para os participantes? Se estavam, por que ainda houve necessidade de perguntar?
+
 6. Síntese
 A observação mostrou situações relacionadas a dúvidas, espera e necessidade de confirmação de informações. Antes de pensar em uma solução, é necessário reunir evidências, identificar quem é afetado, entender as consequências e descobrir quais informações ainda faltam. Assim, o problema pode ser definido de forma provisória e revisado conforme novas observações.
  
