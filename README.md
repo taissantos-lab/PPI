@@ -78,7 +78,11 @@ Dúvida que ainda precisa ser investigada: As informações da programação est
 
 6. Síntese
 A observação mostrou situações relacionadas a dúvidas, espera e necessidade de confirmação de informações. Antes de pensar em uma solução, é necessário reunir evidências, identificar quem é afetado, entender as consequências e descobrir quais informações ainda faltam. Assim, o problema pode ser definido de forma provisória e revisado conforme novas observações.
- 
+
+
+
+
+
 Atividade 3
 1. Eixo escolhido:
 Memórias Quilombolas.
