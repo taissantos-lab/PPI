@@ -81,8 +81,6 @@ A observação mostrou situações relacionadas a dúvidas, espera e necessidade
 
 
 
-
-
 Atividade 3
 1. Eixo escolhido:
 Memórias Quilombolas.
