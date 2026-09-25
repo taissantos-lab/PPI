@@ -84,7 +84,7 @@ A observação mostrou situações relacionadas a dúvidas, espera e necessidade
 
 Atividade 3
 1. Eixo escolhido:
-Memórias Quilombolas.
+Memórias Quilombolas. 
 
 2. Justificativa:
 Escolhemos esse eixo porque as memórias quilombolas são importantes para compreender histórias e conhecimentos das comunidades. O tema pode ser investigado considerando como essas memórias são registradas e consultadas.
